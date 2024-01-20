@@ -72,7 +72,3 @@
 
 </details>
 
- ------
-Credit: [h-fares](https://github.com/h-fares)
-
-Last Edited on: 01/05/2022
