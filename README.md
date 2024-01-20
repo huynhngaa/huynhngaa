@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nga</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huynhngaa&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 
@@ -15,7 +15,6 @@
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=flask&logoColor=black&color=white"></a>
 
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhngaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
@@ -23,11 +22,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=huynhngaa&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
 
--------
-<details>
-<summary>Preview  </summary>
 
-[name](filename 'h-fares.md')
 
-</details>
 
