@@ -21,7 +21,7 @@
 ```javascript
 const nga = {
     location: "Vietnam 🇻🇳",
-    role: "Full Stack Developer",
+    role: "pkchu",
     focus: ["Web Development", "AI/ML", "Mobile Apps"],
     languages: ["JavaScript", "Python", "PHP", "C++"],
     currentlyLearning: "Advanced Machine Learning",
