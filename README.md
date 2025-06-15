@@ -186,55 +186,9 @@ graph TD
 
 </div>
 
----
 
-## 🎯 Current Focus
 
-<div align="center">
 
-| 🔭 Working On | 🌱 Learning | 👯 Collaborating |
-|---------------|-------------|------------------|
-| AI Projects | Advanced ML | Open Source |
-| Full Stack Apps | Cloud Computing | Team Projects |
-| Mobile Development | DevOps | Community Building |
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynhngaa)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-
-</div>
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-</div>
-
----
-
-## 🎵 Coding Playlist
-
-<div align="center">
-
-🎧 Currently listening to: **Lo-fi Hip Hop Radio** 🎶
-
-*Perfect coding vibes for maximum productivity!*
-
-</div>
 
 ---
 
